@@ -6,4 +6,4 @@ checks tomuss every minutes and show a notification in case of a new event
 npm i
 
 # Run
-npm index.js <url rss de tomuss>
+npm index.js \<url rss de tomuss\>
